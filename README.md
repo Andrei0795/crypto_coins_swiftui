@@ -27,7 +27,7 @@ CryptoTracker is a real-time cryptocurrency tracking app that provides instant p
 - **WebSockets** – For real-time, low-latency price updates.
 - **Apple Push Notifications (Coming Soon)** – To alert users of significant price movements.
 
-## Why Use CryptoTracker?
+## Why Use the app?
 
 - Stay informed with **real-time price updates**.
 - Never miss important price movements with **instant alerts**.
