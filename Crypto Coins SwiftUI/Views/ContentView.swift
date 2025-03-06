@@ -26,7 +26,7 @@ struct ContentView: View {
                     Text("Name")
                     Spacer()
                     Text("Price")
-                    Text("%Change")
+                    Text("Change in %")
                 }
                 .padding(.horizontal, 5)
                 .fontWeight(.heavy)
