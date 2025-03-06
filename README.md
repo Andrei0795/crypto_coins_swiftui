@@ -1,5 +1,7 @@
 # crypto_coins_swiftui
 
+<img width="200" alt="Screenshot 2024-05-28 at 23 40 47" src="https://github.com/user-attachments/assets/d6241826-b9a3-493f-99ba-e972f16465b4">
+
 CryptoTracker is a real-time cryptocurrency tracking app that provides instant price updates for Bitcoin, Ethereum, Dogecoin, and other major digital assets. It utilizes WebSockets to deliver live price changes without delays, ensuring you stay up to date with market fluctuations.
 
 ## Features
